@@ -3,7 +3,7 @@
 # include <iostream>
 int main()
 {
-  double meal_ cost;
+  double meal_cost;
   double tax;
   double tip;
   double total_cost;
@@ -20,5 +20,5 @@ int main()
   std::cout << "Tip:        $" << tip << std::endl;
   std::cout << "Total Bill: $" << total_cost << std::endl;
 
-  return o;
+  return 0;
 }
