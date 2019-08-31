@@ -1,10 +1,16 @@
-// Name: 
+// Name: Jorge Garcia 
 // This program displays a diamond pattern to the screen.
 
 #include <iostream>
 
 int main()
 {
-
-  return 0;
+std::cout<<"   *\n";
+std::cout<<"  ***\n";
+std::cout<<" *****\n";
+std::cout<<"*******\n";
+std::cout<<" *****\n";
+std::cout<<"  ***\n";
+std::cout<<"   *\n";
+return 0;
 }
