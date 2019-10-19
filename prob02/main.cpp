@@ -6,7 +6,7 @@
 int main()
 {
   double width, length;
-  int area;
+  double area;
 
   // Get the length and width of the room.
   std::cout << "What is the room's \"width\" in feet? ";
